@@ -1,0 +1,8 @@
+title: Основы протокола HTTP
+items:
+- name: Клиент-серверная архитектура
+  href: Клиент-серверная архитектура/task.md
+- name: HTTP запросы и ответы
+  href: HTTP запросы и ответы/task.md
+- name: Структура URL
+  href: Структура URL/task.md

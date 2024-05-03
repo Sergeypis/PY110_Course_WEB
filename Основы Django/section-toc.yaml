@@ -1,0 +1,16 @@
+title: Основы Django
+items:
+- name: Введение в модуль
+  href: section-intro.md
+- name: Введение в Django
+  include:
+    path: Введение в Django/lesson-toc.yaml
+    mode: link
+- name: Создание первого Django приложения
+  include:
+    path: Создание первого Django приложения/lesson-toc.yaml
+    mode: link
+- name: Работа с представлениями на основе функций
+  include:
+    path: Работа с представлениями на основе функций/lesson-toc.yaml
+    mode: link

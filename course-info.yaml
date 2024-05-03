@@ -1,0 +1,15 @@
+type: marketplace
+title: Основы Django
+language: English
+summary: Данный курс посвещён основам изучения фреймворка Django
+programming_language: Python
+environment: unittest
+content:
+  - Основы HTTP и HTML
+  - Основы Django
+  - Регулярные выражения и маршруты
+  - Django Шаблонизатор и статические файлы
+  - Декораторы и настройка авторизации
+mode: Study
+vendor:
+  name: Aeksei

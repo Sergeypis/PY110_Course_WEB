@@ -1,0 +1,25 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 66
+        placeholder_text: |-
+          if __name__ == "__main__":
+              # Write your solution here
+              pass
+        initial_state:
+          length: 66
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5M4pN4BrpL8bKpNo32Z7iz+jOJW42zClpi4ee8CmCoeicXbdkHg3s0ClTu+RrVjjEYds9ApmeM6tnQt3uiqHdG1zHTkCSEWFWgtW0/NTnw06X4QnnIYLYwfRh8+cRK1dj1L/5TtYxzVxI6DmqOwnhDcQYYF4wisDcfBA8EFW6RebUU554RlFnKQ5/ft66FRL0rkB7KniVciqsCXg9fq+2RyKW446A+xNnFdcbAH1G5FObMY03+8uhr3DOgcNkmiy35Ywn5qNUNl7t1Yvs/uo1/h0vAgr2N7gn4t2EVn+rOxNRjLL9mtCPgRT0IC+7sWrP2Tc1yXHb12t1mabjhfiw1+x9tYJLd7h0ga5aJ8YlKDoJsgt84iLyttXGS13anae7FznukjkgTYH6vU/ZMfzl9GLHb5gmzU0+bYRfvH6oxqIMinUZkXtj3h3ZIOJ0EGXqVmM7acnGTNXajHFScjDratDw0KhXvqBCh2eAPK+GSmOA909IgEgQKZk9AcWRmn3rME+L58wujocBV2cClbydHjXgPcL7JDKorIFNALA+KyvYyv39A/CiNvoEj3kO2kK
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

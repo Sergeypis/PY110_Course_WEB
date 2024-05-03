@@ -1,0 +1,8 @@
+title: Регистрация и авторизация пользователей
+items:
+- name: Безопасность веб-приложений
+  href: Безопасность веб-приложений/task.md
+- name: Административная панель Django
+  href: Административная панель Django/task.md
+- name: Декоратор login_required
+  href: Декоратор login_required/task.md

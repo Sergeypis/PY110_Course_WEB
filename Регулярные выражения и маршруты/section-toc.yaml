@@ -1,0 +1,16 @@
+title: Регулярные выражения и маршруты
+items:
+- name: Введение в модуль
+  href: section-intro.md
+- name: Основы регулярных выражений
+  include:
+    path: Основы регулярных выражений/lesson-toc.yaml
+    mode: link
+- name: Регулярные выражения в Python
+  include:
+    path: Регулярные выражения в Python/lesson-toc.yaml
+    mode: link
+- name: Маршруты в Django
+  include:
+    path: Маршруты в Django/lesson-toc.yaml
+    mode: link

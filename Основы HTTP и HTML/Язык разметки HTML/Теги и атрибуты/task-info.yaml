@@ -1,0 +1,51 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: summer.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 594
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="ru">
+          <head>
+              <meta charset="UTF-8">
+              <title>Лето</title>
+          </head>
+          <body>
+              Лето: Время солнца, моря и приключений
+              <p>
+                  Летом природа дарит нам невероятные виды. Один из них — закат над морем, который покоряет своей красотой и спокойствием.
+                  <img src="sunset.png" alt="Закат над морем">
+              </p>
+              <p>
+                  Лето — это время, когда дни длинные, а ночи короткие. В каждом утреннем ветерке можно почувствовать аромат свежего моря,
+                  а на закате солнце окутывает все вокруг своим теплом и расслабляющим светом.
+              </p>
+          </body>
+          </html>
+        initial_state:
+          length: 594
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: MDmo0BDmYPgVilQBNgV6/IF4TZXRyuX+GFAITMAgz7f0VVUp0OffcGyUdVHN5N+BooLl3tX19lIZswIDl/vcfw278FZwetN2URrL9MaR4YnS/WU1mDhU3MRwpeDIb5jyPoucfUSsRdP/rhn4LB7vsU8Tn/2RirQMO7sDvZ3SpnVHQPIFOJS8Te/dvNwAm6OcWMCarr3PU1f7YT8loWbdZ/oM5G3WSeIHR6lDwlW709I9WDCm4W3I/QzGIeWa2N0M/aO4W+rOWxgFMvZa5g1h55wBjFuphp7QIGNIBvOGgM01bmm/lVWRQ1eWLTaH+wPah7KknJI0Xa76TAnN50REyIzQoXtOXknfPWTV4owWQrX4vKFchFrUN87Q8Q84BXo2fKgRF73NUNzKOsXminsFsYIzd7V4l3CXSFtgcg5+lOd9hv5MbDUxN3V8EmfvWZopU7vYk51s/ZvQa/vUdOctG4PAefcxMm1mDaQ5MRzh3Cbpi8Hrgu66ruvpzgdht1qXJ7lUgOYYfrasUQMyLkG1weoEhyyhIaYHVZH+gIAewkd4KGxuBujFfcafKi6mnDDDutuU2P0dVt3ruIKHbk05XaoeGi51j8D7NZRYQTwEw4e7Kxn2D6YVpck0PdpAuF8FNk9m7WkDkVnZHIRY6pXh+Q1DHv3jFVL3wZg2Uz5ZjlDAlE4HKKhuV3CyT02Dej3fLbIy9/jKDQBX+lt9yP5pt5JLFk6hRz71OcNd8AddSRkso0XF5dOeL7VzHd4QJYZbfOzqpgP/WHa7DcKC1leRug5N4vhIn96hziaC8nixeSRc8BPn9mfMf4IZu/JTWK5nafB8GcFVvlX/7vEZHeEMiWNZcaHSWpJ/DyYUBJ6lLzaf0rv0NaSCDYhJW/GykHA8qJoIL3QfX39FieUUDICRgw2hGjuOwkB5NjJJRZ45/+87baz6e0uETOmlMqn5jqEY6h1vqk4ak6Mi1/Sk+/BarEF8PREr28GyWSWiXAm66rXzhD9bykCI6wqQdezR8XiCn2gah5zZSS780HvoL6htoPX3Us57xmM1gIfq9gDb+keD2Fk/KjyQwYt+DXhpwCb+YKcWmj26jpyxYVBfDzgyX3qGh9d69btGqc94Eo8kGtWS0z7OIkjj9+IaMzjzl20dL1b23H/Cpv4sa3kIQuEUCsixTuaeaCvL6tj1xzocWsV74ZEOhjIXmqHvUqUwOVQNflCXiANiGv1YwCGht+oKaZVRhi38eDV7O7wOw/txMaWQ8jtzBUik06pGPn0BZjcAZM5kfro0hX4f38s3MUagDs+vd38zPzvQsZyy6IcxecM=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/sunset.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

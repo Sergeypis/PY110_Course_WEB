@@ -1,0 +1,12 @@
+title: Декораторы и настройка авторизации
+items:
+- name: Введение в модуль
+  href: section-intro.md
+- name: Декораторы в Python
+  include:
+    path: Декораторы в Python/lesson-toc.yaml
+    mode: link
+- name: Регистрация и авторизация пользователей
+  include:
+    path: Регистрация и авторизация пользователей/lesson-toc.yaml
+    mode: link

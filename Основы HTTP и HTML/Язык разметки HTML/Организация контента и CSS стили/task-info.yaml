@@ -1,0 +1,251 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: winter.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 986
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <title>Зимняя страница</title>
+              <!--TODO Подключить файл со стилями styles.css-->
+          </head>
+          
+          <body>
+              <!--TODO Добавить header из файла index.html-->
+          
+              <main>
+                  <div>  <!--TODO Добавить классы container и text-container-->
+                      <h1>Добро пожаловать на зимнюю страницу!</h1>
+                      <p>Сверкающие снежинки и аромат горячего какао — зима встречает нас своим холодным волшебством.</p>
+                      <img src="images/winter_image.jpg" alt="Зима">
+                  </div>
+                  <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                      <button class="styled-button">
+                          <a href="autumn.html"><==Осень</a>
+                      </button>
+                      <button class="styled-button">
+                          <a href="spring.html">Весна==></a>
+                      </button>
+                  </div>
+              </main>
+          
+              <!--TODO Добавить footer из файла index.html-->
+          </body>
+          </html>
+        initial_state:
+          length: 986
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: autumn.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 1000
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <title>Осенняя страница</title>
+              <!--TODO Подключить файл со стилями styles.css-->
+          </head>
+          
+          <body>
+              <!--TODO Добавить header из файла index.html-->
+          
+              <main>
+                  <div>  <!--TODO Добавить классы container и text-container-->
+                      <h1>Добро пожаловать на осеннюю страницу!</h1>
+                      <p>Словно разноцветный ковер, листья устилают землю, приглашая нас на прогулку в этот уютный сезон.</p>
+                      <img src="images/autumn_image.jpg" alt="Картина осени">
+          
+                  </div>
+                  <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                      <button class="styled-button">
+                          <a href="summer.html"><==Лето</a>
+                      </button>
+                      <button class="styled-button">
+                          <a href="winter.html">Зима==></a>
+                      </button>
+                  </div>
+              </main>
+          
+              <!--TODO Добавить footer из файла index.html-->
+          </body>
+          </html>
+        initial_state:
+          length: 1000
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: spring.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 994
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <title>Весенняя страница</title>
+              <!--TODO Подключить файл со стилями styles.css-->
+          </head>
+          
+          <body>
+              <!--TODO Добавить header из файла index.html-->
+          
+              <main>
+                  <div>  <!--TODO Добавить классы container и text-container-->
+                      <h1>Добро пожаловать на Весеннюю страницу!</h1>
+                      <p>Пробуждение природы, расцветающие цветы и пение птиц — весна наполняет мир новой жизнью.</p>
+                      <img src="images/spring_image.jpg" alt="Картина весны">
+          
+                  </div>
+                  <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                      <button class="styled-button">
+                          <a href="winter.html"><==Зима</a>
+                      </button>
+                      <button class="styled-button">
+                          <a href="summer.html">Лето==></a>
+                      </button>
+                  </div>
+              </main>
+          
+              <!--TODO Добавить footer из файла index.html-->
+          </body>
+          </html>
+        initial_state:
+          length: 994
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: summer.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 993
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <title>Летняя страница</title>
+              <!--TODO Подключить файл со стилями styles.css-->
+          </head>
+          
+          <body>
+              <!--TODO Добавить header из файла index.html-->
+          
+              <main>
+                  <div>  <!--TODO Добавить классы container и text-container-->
+                      <h1>Добро пожаловать на летнюю страницу!</h1>
+                      <p>Яркое солнце, теплый песок и прохладное море — лето приглашает нас на отдых и приключения.</p>
+                      <img src="images/summer_image.jpg" alt="Картина лета">
+          
+                  </div>
+                  <div>  <!--TODO Добавить классы container и text-container, замените все "#" на актуальные ссылки-->
+                      <button class="styled-button">
+                          <a href="spring.html"><==Весна</a>
+                      </button>
+                      <button class="styled-button">
+                          <a href="autumn.html">Осень==></a>
+                      </button>
+                  </div>
+              </main>
+          
+              <!--TODO Добавить footer из файла index.html-->
+          </body>
+          </html>
+        initial_state:
+          length: 993
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: index.html
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 1091
+        placeholder_text: |-
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <title>Сезоны года</title>
+              <!--TODO Подключите файл со стилями styles.css-->
+          </head>
+          <body>
+              <header>
+                  <div>.<!--TODO Добавьте класс container-->
+                      <nav>
+                          <!--TODO Замените все ссылки на актуальные-->
+                          <h1>Навигация</h1>
+                          <a href="#">Главная</a>
+                          <a href="#">Основы HTML</a>
+                          <a href="#">Основы CSS</a>
+                      </nav>
+                  </div>
+              </header>
+          
+              <main>
+                  <div> <!--TODO Добавьте класс container-->
+                      <h2>Времена года</h2>
+                      <ul>
+                          <!--TODO Замените все "#" на актуальные ссылки-->
+                          <li><a href="#">Весна</a></li>
+                          <li><a href="#">Лето</a></li>
+                          <li><a href="#">Осень</a></li>
+                          <li><a href="#">Зима</a></li>
+                      </ul>
+                  </div>
+              </main>
+          
+              <footer>
+                  <div> <!--TODO Добавьте класс container-->
+                      <p>&copy; 2023 Все права защищены</p>
+                  </div>
+              </footer>
+          </body>
+          </html>
+        initial_state:
+          length: 1091
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: MDmo0BDmYPgVilQBNgV6/GmKnsH5HnA01B0c9bnyRMxp6WXwUpMF08kPT5JXg0UEVrWDnvi7IS9ybiszM2KfSguFU+kjMTebNp7xcWk2BalwGr2tNQLXejulI1kZPZEsasWKC+N5dMSdOpvj7s6IUntU3dGxUgNGHkGJTXImVwqv/i3JUOFOkUgidNZSQK/tpD+EvodzGwJMoOwRZjdt0nbxSUOeRa+IIXf3oJVHSYkxlOtcFOPniDFA4oEWT7whQ+8H78xNB2J0bfTqPqPNbEUDNRx5VNn2bvAumpQMbNE4pFFSHRFHXaj9d+E6iATn0VVzSCxcc8hwRKA3nOkJpcUmEGWR1awfOowrNRjBk47DjieRmsi67sogdQ+8YKblkfxEPU3aljxyUZKSOLsZjQgjnm0AeqU19gLgpIefCqCQ+eIQoYOggLckT7w3Ykl99vFN7aGoITaStoJ5yubWuI4Q4a9xFObq9P7iBxzKQmtxL9w916j9DsCtzrvqoVMOVQbDGsROno+SZkoaRC9vc0QhxIfF/kvFEX0zN5gPMaTrHzkqr0THO9DaEAJEdPdoH8tdUxwq4fJsUwKcaauhfNh9uvb1RLDcSf6ccNlV5Mc3/Fd0Qy2OLCWEZqCfrQhcqdPbkUTrhhDIxw/rRVg9+rznMDzl6ThWZDn36IVeJCgUUTv5YNhjP9netfiatvwkaqpT3IyHShpJuH7p2PY9FH8BZov7Oq2SXZY0GPUfvu5mOZcLJQfWdqhWViIrAGm1Y+Elx8iUkWqlomhRkHHQcj3aGZQ0/O06213kX/zkm9MKJwz/wduJflvxFJ8mJf4M5Qsgbh4SQlvEzcD+7Map+ObbHW+gxBZGQHPh+8CEwBggqgOOWgP+951gF/ksW7QkukUrsuWUZnT2BY1/vbLBcqJgGyoTl0p50l3FGS5KB8I+th0AsuiEYFQPNHF+m2RsRFe3Ewfke8EBCUUOvYpBU9JZyquEQKKKhaEbyiD3mkT4Ny3vYDg69Xsh/GK/ngk9cuYAKD7uVry2bp6Mqjuc8qJ90KkBz1uOGoh+2Oxjuzg0NxBl6+SY9I55XhC2RTVsrDuwXkuehzwbNJ2eg6GtmxNB/ec/xyZP54i10KPmsgPydyebI1yqzML22+Qyl4mDmCaqD6fQBJjbw3pW5iXz8YKhEOEST2T13ynbeIG5HwDnievjfeJvgNCup0oi7uNMKuuRdamMWqctu5CzmqnzRhGvuL1lREWvzTNbyOKu6T8qW9FpFopgSyx9gXszDQdqEYxgU5VUNgUBcmq/VbDFVhlIUUgpuFGqu3YkpXoBtvV1fPSSLw6+Q7baAyTKG3zY4S1WS/WbnUloMhRGdWXnySt0vBwDi0icgdByGG9S36O3dpXT8w4sQr07jp5oa/Y240DwT3JwRAt+pN9rzlukiKHHK55nm82gdhI5evynKf9IkvfMoU00g3fb0TYkxyX9wPlkVpd2jWWliGPrbuXoNpYIzeY6sW4Z5sAICsn7fTbWPcSqbL+sgBWh6O7p9fQcezaocgQ9k/iqjNIPNv+ZwA5+z7RFCnRWz4az03VHynkS31XOAF+eYT20l5083Wswq4bTjYs5LdIxEReBC8CUWFxyxyBGHnoFYNxKYI1nLTw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: css/styles.css
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

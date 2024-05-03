@@ -1,0 +1,8 @@
+title: Введение в Django
+items:
+- name: Фреймворк Django и его роль в веб-разработке
+  href: Фреймворк Django и его роль в веб-разработке/task.md
+- name: Установка Django и создание проекта
+  href: Установка Django и создание проекта/task.md
+- name: Структура и настройки Django проекта
+  href: Структура и настройки Django проекта/task.md

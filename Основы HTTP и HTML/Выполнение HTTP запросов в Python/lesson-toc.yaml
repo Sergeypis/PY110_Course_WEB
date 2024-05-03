@@ -1,0 +1,8 @@
+title: Выполнение HTTP запросов в Python
+items:
+- name: Библиотека requests
+  href: Библиотека requests/task.md
+- name: Взаимодействие с API
+  href: Взаимодействие с API/task.md
+- name: Отправка данных в теле запроса
+  href: Отправка данных в теле запроса/task.md

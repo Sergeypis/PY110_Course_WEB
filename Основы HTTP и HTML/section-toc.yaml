@@ -1,0 +1,16 @@
+title: Основы HTTP и HTML
+items:
+- name: Введение в модуль
+  href: section-intro.md
+- name: Язык разметки HTML
+  include:
+    path: Язык разметки HTML/lesson-toc.yaml
+    mode: link
+- name: Основы протокола HTTP
+  include:
+    path: Основы протокола HTTP/lesson-toc.yaml
+    mode: link
+- name: Выполнение HTTP запросов в Python
+  include:
+    path: Выполнение HTTP запросов в Python/lesson-toc.yaml
+    mode: link

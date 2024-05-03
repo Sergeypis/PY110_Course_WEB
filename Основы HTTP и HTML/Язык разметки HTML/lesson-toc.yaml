@@ -1,0 +1,8 @@
+title: Язык разметки HTML
+items:
+- name: Структура HTML документа
+  href: Структура HTML документа/task.md
+- name: Теги и атрибуты
+  href: Теги и атрибуты/task.md
+- name: Организация контента и CSS стили
+  href: Организация контента и CSS стили/task.md

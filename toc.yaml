@@ -1,0 +1,31 @@
+title: Основы Django
+href: index.yaml
+navigation:
+  logo:
+    url: /
+    text: IDE EDU
+    target: _self
+items:
+- name: Введение в курс
+  href: course-intro.md
+- name: Основы HTTP и HTML
+  include:
+    path: Основы HTTP и HTML/section-toc.yaml
+    mode: link
+  expanded: true
+- name: Основы Django
+  include:
+    path: Основы Django/section-toc.yaml
+    mode: link
+- name: Регулярные выражения и маршруты
+  include:
+    path: Регулярные выражения и маршруты/section-toc.yaml
+    mode: link
+- name: Django Шаблонизатор и статические файлы
+  include:
+    path: Django Шаблонизатор и статические файлы/section-toc.yaml
+    mode: link
+- name: Декораторы и настройка авторизации
+  include:
+    path: Декораторы и настройка авторизации/section-toc.yaml
+    mode: link

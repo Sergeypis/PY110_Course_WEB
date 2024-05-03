@@ -1,0 +1,12 @@
+title: Django Шаблонизатор и статические файлы
+items:
+- name: Введение в модуль
+  href: section-intro.md
+- name: Шаблонизация в Django
+  include:
+    path: Шаблонизация в Django/lesson-toc.yaml
+    mode: link
+- name: Работа со статическими файлами
+  include:
+    path: Работа со статическими файлами/lesson-toc.yaml
+    mode: link

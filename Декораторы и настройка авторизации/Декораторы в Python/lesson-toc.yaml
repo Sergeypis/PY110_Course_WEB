@@ -1,0 +1,8 @@
+title: Декораторы в Python
+items:
+- name: Передача функций как аргументов
+  href: Передача функций как аргументов/task.md
+- name: args и kwargs в Python
+  href: args и kwargs в Python/task.md
+- name: Декораторы
+  href: Декораторы/task.md
